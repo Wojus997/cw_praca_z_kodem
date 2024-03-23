@@ -1,0 +1,10 @@
+6. jest inny napisz w naglowku
+8. 
+************* Module app
+app.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+app.py:7:0: C0116: Missing function or method docstring (missing-function-docstring)
+app.py:13:0: C0116: Missing function or method docstring (missing-function-docstring)
+app.py:2:0: W0611: Unused escape imported from markupsafe (unused-import)
+
+-----------------------------------
+Your code has been rated at 4.29/10
