@@ -2,3 +2,5 @@ setup:
 	pip install -r requirements.txt
 flash:
 	py - m flask run
+pylintcheck:
+	pylint app.py
