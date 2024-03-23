@@ -1,4 +1,4 @@
 setup:
 	pip install -r requirements.txt
 flash:
-	flask run
+	py - m flask run
